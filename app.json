@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "onboardingCredito",
+    "slug": "onboardingCredito",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "onboardingCredito"
+}
