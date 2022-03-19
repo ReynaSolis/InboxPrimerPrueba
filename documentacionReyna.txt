@@ -1,0 +1,12 @@
+https://reactnative.dev/docs/getting-started
+
+https://help.dreamhost.com/hc/es/articles/360029083351-Instalar-una-versi%C3%B3n-personalizada-de-NVM-y-Node-js
+
+https://laracasts.com/discuss/channels/elixir/enoent-no-such-file-or-directory
+
+https://www.genymotion.com/download/
+
+https://rossbulat.medium.com/react-native-creating-an-in-app-inbox-c20a7eda6430
+
+https://www.youtube.com/watch?v=QHNkggxcZ_g
+http://galvanize-inbox-styleguide.herokuapp.com/
