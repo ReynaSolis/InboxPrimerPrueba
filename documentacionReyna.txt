@@ -10,3 +10,11 @@ https://rossbulat.medium.com/react-native-creating-an-in-app-inbox-c20a7eda6430
 
 https://www.youtube.com/watch?v=QHNkggxcZ_g
 http://galvanize-inbox-styleguide.herokuapp.com/
+
+https://callstack.github.io/react-native-paper/2.0/index.html
+
+https://react-bootstrap.github.io/getting-started/introduction/
+
+https://blog.logrocket.com/a-guide-to-flexbox-properties-in-react-native/
+
+https://rossbulat.medium.com/react-native-creating-an-in-app-inbox-c20a7eda6430

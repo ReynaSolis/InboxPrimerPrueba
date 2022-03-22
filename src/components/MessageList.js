@@ -1,34 +1,28 @@
-<FlatList
-  contentContainerStyle={styles.container}
-  ListHeaderComponent={{/* Your Header Component */ }}
-  ListFooterComponent={{/* Your Footer Component */ }}
-  scrollEventThrottle={250}
-  data={data}
-  keyExtractor={(item) => '' + item._id}
-  refreshControl={
-    <RefreshControl
-      refreshing={refreshing}
-      onRefresh={() => fetchMessages()}
-    />
-  }
-  renderItem={({ item, index }) => {
-    let { template } = item;
+import * as React from 'react';
+import { View, StyleSheet} from 'react-native';
+import { Title, Divider, Text } from 'react-native-paper';
+
+import Message from './Message';
+import Date from './Date';
+
+
+export default class MessageList extends React.Component {
+
+
+  render() {
+
     return (
-      <>
-        {template === 'rate' // separate template for rate messages
-          ? <ItemRate
-            key={index}
-            item={item}
-            inboxType={inboxType}
-          />
-          : // default message item component
-          <Item
-            key={index}
-            item={item}
-            inboxType={inboxType}
-          />
-        }
-      </>
-    )
-  }}
-/>
+
+        
+        <View>
+          
+          <Date />
+          <Message />
+          
+        </View>
+
+
+
+    );
+  }
+}
