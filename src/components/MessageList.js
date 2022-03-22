@@ -17,7 +17,7 @@ export default class MessageList extends React.Component {
         <View>
           
           <Date />
-          <Message />
+          <Message/>
           
         </View>
 
