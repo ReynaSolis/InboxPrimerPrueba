@@ -18,3 +18,7 @@ https://react-bootstrap.github.io/getting-started/introduction/
 https://blog.logrocket.com/a-guide-to-flexbox-properties-in-react-native/
 
 https://rossbulat.medium.com/react-native-creating-an-in-app-inbox-c20a7eda6430
+
+https://github.com/fatikhan-gasimov/gmail-clone
+
+https://morioh.com/p/264fac0586ac
